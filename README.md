@@ -4,8 +4,11 @@ This is a plotter mod for the Bambulab A1 and A1 Mini.
 ---
 ## Printer Profile
 The custom printer profiles are currently available for the:
-**BambulLab A1 Mini 0.2mm/0.4mm nozzle**
-**BambulLab A1 Mini 0.2mm/0.4mm nozzle**
+| Printer        | 0.2mm | 0.4mm | 0.6mm | 0.8mm |
+| --------------- |:-----:| -----:| -----:| -----:|
+| BambuLab A1 Mini|  ,/   |  ,/   |   -   |   -   |
+| BambuLab A1     |  ,/   |  ,/   |   -   |   -   |
+
 I created custom printer profiles, that make the printer home on the front of the print bed to avoid crashing the pen into the bed.
 
 ### Machine Start G-Code
