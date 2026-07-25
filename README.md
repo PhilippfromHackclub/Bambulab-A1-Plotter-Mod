@@ -6,10 +6,10 @@ This is a plotter mod for the Bambulab A1 and A1 Mini.
 The custom printer profiles are currently available for the:
 | Printer        | 0.2mm | 0.4mm | 0.6mm | 0.8mm |
 | --------------- |:-----:| -----:| -----:| -----:|
-| BambuLab A1 Mini|  ,/   |  ,/   |   -   |   -   |
-| BambuLab A1     |  ,/   |  ,/   |   -   |   -   |
+| BambuLab A1 Mini|  ✓   |  ✓    |   -   |   -   |
+| BambuLab A1     |  ✓   |  ✓    |   -   |   -   |
 
-I created custom printer profiles, that make the printer home on the front of the print bed to avoid crashing the pen into the bed.
+The printer profiles make the printer home the X and Y axis normally and the Z axis at the front of the printbed to avoid collision between the print bed and the, to the tool head attached, pen. Heating is multiple times set to 1°C/33,8°F to prevent routine heating comands from heating up print bed and nozzle.
 
 ### Machine Start G-Code
 ```python
