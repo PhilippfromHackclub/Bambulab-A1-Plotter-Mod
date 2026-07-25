@@ -56,7 +56,7 @@ M18 X Y Z
 ---
 ## Filament Profile
 
-The custom filament profile avoids nozzle and print bed heating and fan cooling during the print.
-For the Plot the model should be set to only one layer.
+The custom filament profile avoids nozzle and print bed heating and fan cooling during the plot.
+For the plot the model should be set to only one layer.
 
 To prevent pen strokes set the Z-Hop int the filament settings under **Settings Overrides > Retraction** between 0.5-1mm and the Z-Hop Type to automatic
