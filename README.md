@@ -1,7 +1,12 @@
 # Bambulab-A1-Series-Plotter-Mod
-This is a plotter mod for the Bambulab A1 and A1 Mini.
-![image](https://cdn.hackclub.com/019f95e4-0116-711e-b5a8-80d8adbe2b54/IMG_6886.jpeg)
+This is a plotter mod for the Bambulab A1 and A1 Mini. The mod is based on custom printer & filament profiles and the physical tool head cover with pen mount.
+![image](https://cdn.hackclub.com/019f9ae2-a48f-7247-aa75-3a4e60090c52/Cover.jpg)
+
 ---
+# Hardware
+
+---
+# Software
 ## Printer Profile
 The custom printer profiles are currently available for the:
 | Printer        | 0.2mm | 0.4mm | 0.6mm | 0.8mm |
@@ -59,4 +64,9 @@ M18 X Y Z
 The custom filament profile avoids nozzle and print bed heating and fan cooling during the plot.
 For the plot the model should be set to only one layer.
 
-To prevent pen strokes set the Z-Hop int the filament settings under **Settings Overrides > Retraction** between 0.5-1mm and the Z-Hop Type to automatic
+To prevent pen strokes set the Z-Hop int the filament settings under **Settings Overrides > Retraction** between 0.5-1mm and the Z-Hop Type to automatic:
+Open Filament Settings:
+[image](https://cdn.hackclub.com/019f9ae7-6c37-7d12-b1c5-843d6b0a3e3c/Screenshot%202026-07-24%20235139.png)
+
+Set values as followed:
+![image](https://cdn.hackclub.com/019f9ae7-03e8-7768-8caa-ee4e6a7105dd/Unbenannt.png)!
