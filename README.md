@@ -5,18 +5,22 @@ This is a plotter mod for the Bambulab A1 and A1 Mini. The mod is based on custo
 ---
 # Hardware
 There are two versions of the toolhead attachment module.
-
-<img src="https://cdn.hackclub.com/019f9fe4-9a5b-7a24-9fc3-9e50ec578871/ToolheadAttachment.png" alt="Alt Text" width="451" height="730">
-<img src="https://cdn.hackclub.com/019f9fe4-b03f-7236-90ab-b7311c1dda09/ToolheadAttachmentSpring.png" alt="Alt Text" width="451" height="730">
+<table>
+<tr>
+<td><img src="https://cdn.hackclub.com/019f9fe4-9a5b-7a24-9fc3-9e50ec578871/ToolheadAttachment.png" alt="Alt Text" width="451" height="730"></td>
+<td><img src="https://cdn.hackclub.com/019f9fe4-b03f-7236-90ab-b7311c1dda09/ToolheadAttachmentSpring.png" alt="Alt Text" width="451" height="730"></td>
+</tr>
+</table>
 
 ---
 # Software
 ## Printer Profile
 The custom printer profiles are currently available for the:
-| Printer        | 0.2mm | 0.4mm | 0.6mm | 0.8mm |
-| --------------- |:-----:| -----:| -----:| -----:|
-| BambuLab A1 Mini|  ✓   |  ✓    |   -   |   -   |
-| BambuLab A1     |  ✓   |  ✓    |   -   |   -   |
+<table>
+<th>Printer</th><th>0.2mm</th><th>0.4mm</th><th>0.6mm</th><th>0.8mm</th></tr>
+<tr><td>BambuLab A1 Mini</td><td style="text-align:center">✓</td><td style="text-align:center">✓</td><td style="text-align:center">-</td><td style="text-align:center">-</td></tr>
+<tr><td>BambuLab A1</td><td style="text-align:center">✓</td><td style="text-align:center">✓</td><td style="text-align:center">-</td><td style="text-align:center">-</td></tr>
+</table>
 
 The printer profiles make the printer home the X and Y axis normally and the Z axis at the front of the printbed to avoid collision between the print bed and the, to the tool head attached, pen. Heating is multiple times set to 1°C/33,8°F to prevent routine heating comands from heating up print bed and nozzle.
 
