@@ -4,6 +4,10 @@ This is a plotter mod for the Bambulab A1 and A1 Mini. The mod is based on custo
 
 ---
 # Hardware
+There are two versions of the toolhead attachment module.
+
+<img src="https://cdn.hackclub.com/019f9fe4-9a5b-7a24-9fc3-9e50ec578871/ToolheadAttachment.png" alt="Alt Text" width="451" height="730">
+<img src="https://cdn.hackclub.com/019f9fe4-b03f-7236-90ab-b7311c1dda09/ToolheadAttachmentSpring.png" alt="Alt Text" width="451" height="730">
 
 ---
 # Software
