@@ -72,9 +72,7 @@ M18 X Y Z
 The custom filament profile avoids nozzle and print bed heating and fan cooling during the plot.
 For the plot the model should be set to only one layer.
 
-To prevent pen strokes set the Z-Hop int the filament settings under **Settings Overrides > Retraction** between 0.5-1mm and the Z-Hop Type to automatic:
-Open Filament Settings:
-[image](https://cdn.hackclub.com/019f9ae7-6c37-7d12-b1c5-843d6b0a3e3c/Screenshot%202026-07-24%20235139.png)
+<img src="https://cdn.hackclub.com/019fa020-58fa-7228-a970-b4f4ec2b882f/Screenshot%202026-07-24%20231342.png" alt="Z Hop">
 
 Set values as followed:<br>
 <table>
@@ -83,3 +81,14 @@ Set values as followed:<br>
 <td><img src="https://cdn.hackclub.com/019fa017-2d02-77f8-8eb8-897415d4cc14/Screenshot%202026-07-26%20222010.png" alt="Filament Settings - Cooling"></td>
 </tr>
 </table>
+
+To prevent pen strokes set the Z-Hop between 0.5-1mm and the Z-Hop Type to automatic:
+
+<img src="https://cdn.hackclub.com/019fa024-4292-7622-8298-d43f7c7aaf18/Screenshot%202026-07-24%20231412.png" alt="Z Hop">
+
+# Installation
+To install the profiles open Bambu Studio and go to:
+
+<img src="https://cdn.hackclub.com/019fa029-1764-7ddf-abf7-1054fa2201af/Screenshot%202026-07-26%20223930.png" alt="Import Profiles">
+
+Browse for the downloaded folder **Printer & Filament Profiles** and choose the desired profiles.
