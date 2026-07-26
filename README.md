@@ -7,8 +7,8 @@ This is a plotter mod for the Bambulab A1 and A1 Mini. The mod is based on custo
 There are two versions of the toolhead attachment module.
 <table>
 <tr>
-<td><img src="https://cdn.hackclub.com/019f9fe4-9a5b-7a24-9fc3-9e50ec578871/ToolheadAttachment.png" alt="Alt Text" width="451" height="730"></td>
-<td><img src="https://cdn.hackclub.com/019f9fe4-b03f-7236-90ab-b7311c1dda09/ToolheadAttachmentSpring.png" alt="Alt Text" width="451" height="730"></td>
+<td><img src="https://cdn.hackclub.com/019f9fe4-9a5b-7a24-9fc3-9e50ec578871/ToolheadAttachment.png" alt="Toolhead Attachment with Pen Mount" width="90%" height="90%"></td>
+<td><img src="https://cdn.hackclub.com/019f9fe4-b03f-7236-90ab-b7311c1dda09/ToolheadAttachmentSpring.png" alt="Toolhead Attachment with spring loaded Pen Mount" width="90%" height="90%"></td>
 </tr>
 </table>
 
@@ -76,5 +76,10 @@ To prevent pen strokes set the Z-Hop int the filament settings under **Settings 
 Open Filament Settings:
 [image](https://cdn.hackclub.com/019f9ae7-6c37-7d12-b1c5-843d6b0a3e3c/Screenshot%202026-07-24%20235139.png)
 
-Set values as followed:
-![image](https://cdn.hackclub.com/019f9ae7-03e8-7768-8caa-ee4e6a7105dd/Unbenannt.png)!
+Set values as followed:<br>
+<table>
+<tr>
+<td><img src="https://cdn.hackclub.com/019fa017-5589-7173-9b7f-81ff65f1190d/Screenshot%202026-07-26%20222040.png" alt="Filament Settings - Filament"></td>
+<td><img src="https://cdn.hackclub.com/019fa017-2d02-77f8-8eb8-897415d4cc14/Screenshot%202026-07-26%20222010.png" alt="Filament Settings - Cooling"></td>
+</tr>
+</table>
